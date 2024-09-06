@@ -1,6 +1,6 @@
 # Vulnerability-goapp
 Vulnerable golang Web application for education
-
+.
 ## Note
 This application has some vulnerabilities
 So, Use for educational or research purposes only 
